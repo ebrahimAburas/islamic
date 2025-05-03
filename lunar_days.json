@@ -1,0 +1,14 @@
+[
+  {"month": "Muharram", "days": [13, 14, 15]},
+  {"month": "Safar", "days": [13, 14, 15]},
+  {"month": "Rabi al-Awwal", "days": [13, 14, 15]},
+  {"month": "Rabi al-Thani", "days": [13, 14, 15]},
+  {"month": "Jumada al-Awwal", "days": [13, 14, 15]},
+  {"month": "Jumada al-Thani", "days": [13, 14, 15]},
+  {"month": "Rajab", "days": [13, 14, 15]},
+  {"month": "Shaban", "days": [13, 14, 15]},
+  {"month": "Ramadan", "days": [13, 14, 15]},
+  {"month": "Shawwal", "days": [13, 14, 15]},
+  {"month": "Dhu al-Qadah", "days": [13, 14, 15]},
+  {"month": "Dhu al-Hijjah", "days": [14, 15]}
+]

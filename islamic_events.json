@@ -1,0 +1,14 @@
+[
+  {"type": "hijri_year", "name": "Hijri Year", "month": 1, "day": 1, "month_name": "Muharram"},
+  {"type": "ashura", "name": "Ashura", "month": 1, "day": 10, "month_name": "Muharram"},
+  {"type": "mohamed_death", "name": "Prophet Mohamed's Death Day", "month": 3, "day": 12, "month_name": "Rabi al-Awwal"},
+  {"type": "ramadan", "name": "Ramadan", "month": 9, "day": 1, "month_name": "Ramadan"},
+  {"type": "eid_alfitr", "name": "Eid Al-Fitr", "month": 10, "day": 1, "month_name": "Shawwal"},
+  {"type": "eid_alfitr", "name": "Eid Al-Fitr", "month": 10, "day": 2, "month_name": "Shawwal"},
+  {"type": "eid_alfitr", "name": "Eid Al-Fitr", "month": 10, "day": 3, "month_name": "Shawwal"},
+  {"type": "arafah", "name": "Day of Arafah", "month": 12, "day": 9, "month_name": "Dhu al-Hijjah"},
+  {"type": "eid_aladha", "name": "Eid al-Adha", "month": 12, "day": 10, "month_name": "Dhu al-Hijjah"},
+  {"type": "eid_aladha", "name": "Eid al-Adha", "month": 12, "day": 11, "month_name": "Dhu al-Hijjah"},
+  {"type": "eid_aladha", "name": "Eid al-Adha", "month": 12, "day": 12, "month_name": "Dhu al-Hijjah"},
+  {"type": "eid_aladha", "name": "Eid al-Adha", "month": 12, "day": 13, "month_name": "Dhu al-Hijjah"}
+]
