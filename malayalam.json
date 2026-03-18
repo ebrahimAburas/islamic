@@ -1,0 +1,1042 @@
+{
+  "radios": [
+    {
+      "id": 1,
+      "name": "ഇബ്റാഹീം അല് അഖ്ളര്",
+      "url": "https://backup.qurango.net/radio/ibrahim_alakdar",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 2,
+      "name": "അബൂബക്കര് അഷാതിരീ ",
+      "url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 3,
+      "name": "അഹ് മദ് അലി അല് അജമി",
+      "url": "https://backup.qurango.net/radio/ahmad_alajmy",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 4,
+      "name": "അഹ്മദ് അല് ഹുവാഷി",
+      "url": "https://backup.qurango.net/radio/ahmad_alhawashi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 5,
+      "name": "അഹ് മദ് സ്വാബിര്",
+      "url": "https://backup.qurango.net/radio/ahmad_saber",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 6,
+      "name": "അഹ് മദ് നുഐനിഅ്",
+      "url": "https://backup.qurango.net/radio/ahmad_nauina",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 7,
+      "name": "അക് റം അല് അല്ലാഖീ",
+      "url": "https://backup.qurango.net/radio/akram_alalaqmi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 8,
+      "name": "ഇബ്റാഹീം അബ്കര്",
+      "url": "https://backup.qurango.net/radio/idrees_abkr",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 9,
+      "name": "അസ്സീന് മുഹമ്മദ് അഹ് മദ്",
+      "url": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 10,
+      "name": "അല് ഖാരീ യാസീന്",
+      "url": "https://backup.qurango.net/radio/alqaria_yassen",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 11,
+      "name": "അല് ഉയൂന് അല് കൂഷീ",
+      "url": "https://backup.qurango.net/radio/aloyoon_alkoshi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 12,
+      "name": "തൌഫീഖ് അസ്സ്വാഇഅ് ",
+      "url": "https://backup.qurango.net/radio/tawfeeq_assayegh",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 13,
+      "name": "ജമാല് ഷാകിര് അബ്ദുള്ളാ",
+      "url": "https://backup.qurango.net/radio/jamal_shaker_abdullah",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 14,
+      "name": "ഖാലിദ് അല് ഖഹ്ത്വാനി",
+      "url": "https://backup.qurango.net/radio/khaled_alqahtani",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 15,
+      "name": "ഖാലിദ് അബ്ദുല് കാഫി",
+      "url": "https://backup.qurango.net/radio/khalid_abdulkafi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 16,
+      "name": "ഖലീഫത്തുല് ത്വുനൈഈ",
+      "url": "https://backup.qurango.net/radio/khalifa_altunaiji",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 17,
+      "name": "സഅദ് അല് ഗാംദീ",
+      "url": "https://backup.qurango.net/radio/saad_alghamdi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 18,
+      "name": "സഊദ് ശുറൈം",
+      "url": "https://backup.qurango.net/radio/saud_alshuraim",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 19,
+      "name": "സഹല് യാസീന്",
+      "url": "https://backup.qurango.net/radio/sahl_yassin",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 20,
+      "name": "സകീ ദഗസ്താനി",
+      "url": "https://backup.qurango.net/radio/zaki_daghistani",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 21,
+      "name": "സയ്യിദ് റമദാന്",
+      "url": "https://backup.qurango.net/radio/sayeed_ramadan",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 22,
+      "name": "ഷീര്സാദ് അബ്ദു റഹ്മാന് ത്വാഹിര്",
+      "url": "https://backup.qurango.net/radio/shirazad_taher",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 23,
+      "name": "സ്വാബിര് അബ്ദുല് ഹകം",
+      "url": "https://backup.qurango.net/radio/saber_abdulhakm",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 24,
+      "name": "സ്വലാഹ് അല് ബുദൈര്",
+      "url": "https://backup.qurango.net/radio/salah_albudair",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 25,
+      "name": "സ്വലാഹ് അല് ഹാഷിം ",
+      "url": "https://backup.qurango.net/radio/salah_alhashim",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 26,
+      "name": "സ്വലാഹ് ഖാത്വിര്",
+      "url": "https://backup.qurango.net/radio/slaah_bukhatir",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 27,
+      "name": "ആദില് റയ്യാന്",
+      "url": "https://backup.qurango.net/radio/adel_ryyan",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 28,
+      "name": "അബ്ദുല് ബാരി അല്സുബൈതീ",
+      "url": "https://backup.qurango.net/radio/abdelbari_altoubayti",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 29,
+      "name": "അബ്ദുല് ബാരി മുഹമ്മദ്",
+      "url": "https://backup.qurango.net/radio/abdulbari_mohammad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 30,
+      "name": "അബ്ദുല് ബാസിത്ത് അബ്ദു സമദ്",
+      "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 31,
+      "name": "അബ്ദുല് ബാസിത്ത് അബ്ദു സമദ്",
+      "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 32,
+      "name": "അബ്ദുല് ബാസിത്ത് അബ്ദു സമദ്",
+      "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 33,
+      "name": "അബ്ദു റഹ് മാന് അസുദേസ്",
+      "url": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 34,
+      "name": "അബ്ദുല് അസീസ് അല് അഹ്മദ്",
+      "url": "https://backup.qurango.net/radio/abdul_aziz_alahmad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 35,
+      "name": "അബ്ദുല്ല അല് മത് റൂദ്",
+      "url": "https://backup.qurango.net/radio/abdullah_almattrod",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 36,
+      "name": "അബ്ദുല്ല അല് ബസ്ഫര്",
+      "url": "https://backup.qurango.net/radio/abdullah_basfer",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 37,
+      "name": "അബ്ദുല്ല അല് ഖയ്യാത്ത്",
+      "url": "https://backup.qurango.net/radio/abdullah_khayyat",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 38,
+      "name": "അബ്ദുല്ല അവദ് അല് ജുഹനി",
+      "url": "https://backup.qurango.net/radio/abdullah_aljohany",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 39,
+      "name": "അബ്ദു റഷീദ് സൂഫി",
+      "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 40,
+      "name": "അബ്ദു റഷീദ് സൂഫി",
+      "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 41,
+      "name": "അബ്ദുല് മുഹ്സിന് അല് ഹാരിസി",
+      "url": "https://backup.qurango.net/radio/abdulmohsin_alharthy",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 42,
+      "name": "അബ്ദുല് മുഹ്സിന് അല് കാസിം",
+      "url": "https://backup.qurango.net/radio/abdulmohsen_alqasim",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 43,
+      "name": "അബ്ദുല് മുഹ്സിന് അല് ഒബേകാന്",
+      "url": "https://backup.qurango.net/radio/abdulmohsin_alobaikan",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 44,
+      "name": "അബ്ദുല് ഹാദി അഹ്മദ് കനാകരി",
+      "url": "https://backup.qurango.net/radio/abdulhadi_kanakeri",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 45,
+      "name": "അബ്ദുല് വദൂദ് ഹനീഫ്",
+      "url": "https://backup.qurango.net/radio/abdulwadood_haneef",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 46,
+      "name": "അലി ബ്നു അബ്ദു റഹ്മാന് അല് ഹനീഫീ",
+      "url": "https://backup.qurango.net/radio/ali_alhuthaifi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 47,
+      "name": "അലി അല് ഹനീഫീ",
+      "url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 48,
+      "name": "അലി ജാബിര്",
+      "url": "https://backup.qurango.net/radio/ali_jaber",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 49,
+      "name": "അലി ഹജ്ജാജ് അസുവൈസി",
+      "url": "https://backup.qurango.net/radio/ali_hajjaj_alsouasi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 50,
+      "name": "ഇമാദ് സുഹൈര് ഹാഫിള്",
+      "url": "https://backup.qurango.net/radio/emad_hafez",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 51,
+      "name": "ഉമര് അല് ഖസാബിരീ",
+      "url": "https://backup.qurango.net/radio/omar_alqazabri",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 52,
+      "name": "ഫാരിസ് ഉബാദ്",
+      "url": "https://backup.qurango.net/radio/fares_abbad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 53,
+      "name": "മൂസാ അല് ഖത്താമി",
+      "url": "https://backup.qurango.net/radio/nasser_alqatami",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 54,
+      "name": "നബീല് റിഫാഈ",
+      "url": "https://backup.qurango.net/radio/nabil_al_rifay",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 55,
+      "name": "നിഹമ ഹസ്സാന്",
+      "url": "https://backup.qurango.net/radio/neamah_alhassan",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 56,
+      "name": "ഹനീ റിഫാഈ",
+      "url": "https://backup.qurango.net/radio/hani_arrifai",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 57,
+      "name": "വലീദ് അന്നാഇഹീ",
+      "url": "https://backup.qurango.net/radio/waleed_alnaehi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 58,
+      "name": "യാസര് ദൌസരീ",
+      "url": "https://backup.qurango.net/radio/yasser_aldosari",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 59,
+      "name": "യാസര് ഖുറഷീ",
+      "url": "https://backup.qurango.net/radio/yasser_alqurashi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 60,
+      "name": "യാസര് മസ്റൂഈ",
+      "url": "https://backup.qurango.net/radio/yasser_almazroyee",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 61,
+      "name": "യഹ് യാ ഹവ്വ",
+      "url": "https://backup.qurango.net/radio/yahya_hawwa",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 62,
+      "name": "യൂസുഫ് ഷുവൈഈ",
+      "url": "https://backup.qurango.net/radio/yousef_alshoaey",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 63,
+      "name": "മാഹിര് മുഐഖിലി",
+      "url": "https://backup.qurango.net/radio/maher",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 64,
+      "name": "മുഹമ്മദ് ത്വബ്ലാവീ",
+      "url": "https://backup.qurango.net/radio/mohammad_altablaway",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 65,
+      "name": "മുഹമ്മദ് അല് ഹൈദാന്",
+      "url": "https://backup.qurango.net/radio/mohammed_allohaidan",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 66,
+      "name": "മുഹമ്മദ് അയ്യൂബ്",
+      "url": "https://backup.qurango.net/radio/mohammed_ayyub",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 67,
+      "name": "മുഹമ്മദ് സ്വാലിഹ് ആലം ഷാ",
+      "url": "https://backup.qurango.net/radio/mohammad_saleh_alim_shah",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 68,
+      "name": "മുഹമ്മദ് ജിബ്രീല്",
+      "url": "https://backup.qurango.net/radio/mohammed_jibreel",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 69,
+      "name": "മുഹമ്മദ് സിദ്ദീഖ് അല് മിന്ഷാവീ",
+      "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 70,
+      "name": "മുഹമ്മദ് സിദ്ദീഖ് അല് മിന്ഷാവീ",
+      "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 71,
+      "name": "മുഹമമദ് അബ്ദുല് കരീം",
+      "url": "https://backup.qurango.net/radio/mohammad_abdullkarem",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 72,
+      "name": "മുഹമ്മദ് അബദുല് ഹകീം സഈദ് അല് അബ്ദുല്ല",
+      "url": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 73,
+      "name": "മുഹമ്മദ് അബദുല് ഹകീം സഈദ് അല് അബ്ദുല്ല",
+      "url": "https://backup.qurango.net/radio/mohammad_alabdullah_aldorai",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 74,
+      "name": "മഹമൂദ് ഖലീല് അല് ഹസ്വ് രീ",
+      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 75,
+      "name": "മഹമൂദ് ഖലീല് അല് ഹസ്വ് രീ",
+      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 76,
+      "name": "മഹമൂദ് ഖലീല് അല് ഹസ്വ് രീ",
+      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 77,
+      "name": "മഹമൂദ് അലീ ബന്ന",
+      "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 78,
+      "name": "മഹമൂദ് അലീ ബന്ന",
+      "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 79,
+      "name": "മഷാരീ അഫാസി",
+      "url": "https://backup.qurango.net/radio/mishary_alafasi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 80,
+      "name": "മുസ്തഫ ഇസ്മാഈല്",
+      "url": "https://backup.qurango.net/radio/mustafa_ismail",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 81,
+      "name": "മുസ്തഫ ലാഹനീ",
+      "url": "https://backup.qurango.net/radio/mustafa_allahoni",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 82,
+      "name": "മുസ്തഫ റഗദ് അല് ഗാവീ",
+      "url": "https://backup.qurango.net/radio/mustafa_raad_alazawy",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 83,
+      "name": "മിഫ്താഹ് അല് സ്വല്ത്വനീ",
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr ",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 84,
+      "name": "മാഹിര് ഷഖാശീരീ",
+      "url": "https://backup.qurango.net/radio/maher_shakhashero",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 85,
+      "name": "മഹമൂദ് ശൈമീ",
+      "url": "https://backup.qurango.net/radio/mahmood_alsheimy",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 86,
+      "name": "ഖാലിദ് അല് മുഹന്ന",
+      "url": "https://backup.qurango.net/radio/khalid_almohana",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 87,
+      "name": "ആദില് കല്ബാനി",
+      "url": "https://backup.qurango.net/radio/adel_alkhalbany",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 88,
+      "name": "മൂസാ ബിലാല്",
+      "url": "https://backup.qurango.net/radio/mousa_bilal",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 89,
+      "name": "ഹാതിം ഫരീദ് അല് വാഇറ്",
+      "url": "https://backup.qurango.net/radio/hatem_fareed_alwaer",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 90,
+      "name": "മഹമൂദ് റിഫാഈ",
+      "url": "https://backup.qurango.net/radio/mahmood_al_rifai",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 91,
+      "name": "ഇബ്റാഹീം അദ്ദൌസരീ",
+      "url": "https://backup.qurango.net/radio/ibrahim_aldosari",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 92,
+      "name": "മിഫ്താഹ് അല് സ്വല്ത്വനീ",
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 93,
+      "name": "ജംആന് അല് ഉസൈമീ",
+      "url": "https://backup.qurango.net/radio/jamaan_alosaimi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 94,
+      "name": "മിഫ്താഹ് അല് സ്വല്ത്വനീ",
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 95,
+      "name": "യൂസുഫ് ബ്ന് നൂഹ് അഹ്മദ്",
+      "url": "https://backup.qurango.net/radio/yousef_bin_noah_ahmad",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 96,
+      "name": "മിഫ്താഹ് അല് സ്വല്ത്വനീ",
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 97,
+      "name": "മുഈള് അല് ഹരിസീ",
+      "url": "https://backup.qurango.net/radio/moeedh_alharthi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 98,
+      "name": "മുഹമ്മദ് റഷാദ് ഷരീഫ്",
+      "url": "https://backup.qurango.net/radio/mohammad_rashad_alshareef",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 99,
+      "name": "അഹ്മദ് ഖുളര് അത്വറാബല്സീ",
+      "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 100,
+      "name": "അഹ്മദ് ത്വറാബല്സീ",
+      "url": "https://backup.qurango.net/radio/ahmed_altrabulsi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 101,
+      "name": "അബ്ദുല്ല അല് കന്ദറീ",
+      "url": "https://backup.qurango.net/radio/abdullah_alkandari",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 102,
+      "name": "അഹ്മദ് ആമിര്",
+      "url": "https://backup.qurango.net/radio/ahmed_amer",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 103,
+      "name": "മുഹമ്മദ് ഉസ്മാന്ഖാന്",
+      "url": "https://backup.qurango.net/radio/mohammed_osman_khan",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 104,
+      "name": "അദ്ദൌകാലീ മുഹമ്മദ് ആലം",
+      "url": "https://backup.qurango.net/radio/addokali_mohammad_alalim",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 105,
+      "name": "മുഹമമദ് അബ്ദുല് കരീം",
+      "url": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 106,
+      "name": "ഫാതിഹ് മുഹമ്മദ് സുബൈര്",
+      "url": "https://backup.qurango.net/radio/alfateh_alzubair",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 107,
+      "name": "ത്വാരിഖ് അബ്ദുല് ഗനി ദഊബ്",
+      "url": "https://backup.qurango.net/radio/tareq_abdulgani_daawob",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 108,
+      "name": "-പൊതു റേഡിയോ-",
+      "url": "https://backup.qurango.net/radio/mix",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 109,
+      "name": "-ഭക്തി നിർഭരമായ പാരായണം-",
+      "url": "https://backup.qurango.net/radio/salma",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 110,
+      "name": "ഉത്സവത്തിലെ തക്ബിറുകൾ",
+      "url": "https://backup.qurango.net/radio/eid",
+      "recent_date": "2020-06-27 02:41:26"
+    },
+    {
+      "id": 111,
+      "name": "അബ്ദു റഹ്‌മാൻ അൽ മാജിദ്",
+      "url": "https://backup.qurango.net/radio/abdulrahman_almajed",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 113,
+      "name": "പൊതു ഫത്വ റേഡിയോ",
+      "url": "https://backup.qurango.net/radio/fatwa",
+      "recent_date": "2020-06-27 02:39:55"
+    },
+    {
+      "id": 114,
+      "name": "ശരീയരുക്കിയയുടെ റേഡിയോ",
+      "url": "https://backup.qurango.net/radio/roqiah",
+      "recent_date": "2020-06-27 02:38:21"
+    },
+    {
+      "id": 115,
+      "name": "-സൂറ അൽ-ബഖറ - അനേകം പാരായകർ-",
+      "url": "https://backup.qurango.net/radio/albaqarah",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 116,
+      "name": "റേഡിയോ - ഖുര്‍ആന്‍",
+      "url": "https://backup.qurango.net/radio/tafseer",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 117,
+      "name": "ഖാലിദ് അല്-ജലില്",
+      "url": "https://backup.qurango.net/radio/khalid_aljileel",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 118,
+      "name": "നാസർ അൽ-മാജിദ്",
+      "url": "https://backup.qurango.net/radio/nasser_almajed",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 119,
+      "name": "ഹൈഥം ജദ്ആനി",
+      "url": "https://backup.qurango.net/radio/hitham_aljadani",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 120,
+      "name": "അഹമ്മദ് ഷാഹിൻ",
+      "url": "https://backup.qurango.net/radio/ahmad_shaheen",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 121,
+      "name": "അബ്ദുള്ള അൽ മൂസ - റേഡിയോ",
+      "url": "https://backup.qurango.net/radio/abdullah_almousa",
+      "recent_date": "2020-06-27 02:46:31"
+    },
+    {
+      "id": 122,
+      "name": "അബ്ദുള്ള അൽ ഖലഫ്",
+      "url": "https://backup.qurango.net/radio/abdullah_alkhalaf",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 123,
+      "name": "-പ്രത്യേകമായ ചെറുതിലവാരങ്ങൾ-",
+      "url": "https://backup.qurango.net/radio/tarateel",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 139,
+      "name": "മാജിദ് സാമില്",
+      "url": "https://backup.qurango.net/radio/majed_alzamel",
+      "recent_date": "2020-06-27 01:43:46"
+    },
+    {
+      "id": 217,
+      "name": "ബന്തര് ബലീല",
+      "url": "https://backup.qurango.net/radio/bandar_balilah",
+      "recent_date": "2021-09-06 22:14:27"
+    },
+    {
+      "id": 248,
+      "name": "നാസർ അൽ ഉസ്‌ഫൂർ",
+      "url": "https://backup.qurango.net/radio/nasser_alosfor",
+      "recent_date": "2020-05-05 02:27:02"
+    },
+    {
+      "id": 261,
+      "name": "മുഹമ്മദ് അയൂബ് - പ്രത്യേക വായന",
+      "url": "https://backup.qurango.net/radio/ayyoub2",
+      "recent_date": "2020-06-27 02:35:33"
+    },
+    {
+      "id": 265,
+      "name": "അഹ്‌മദ് ദീബാൻ",
+      "url": "https://backup.qurango.net/radio/ahmad_deban",
+      "recent_date": "2020-06-27 01:46:13"
+    },
+    {
+      "id": 274,
+      "name": "മുഹമ്മദ് അബൂസിനിന",
+      "url": "https://backup.qurango.net/radio/sneineh",
+      "recent_date": "2022-08-17 16:40:49"
+    },
+    {
+      "id": 275,
+      "name": "മുഹമ്മദ് അല്-അമീൻ കാനിവ",
+      "url": "https://backup.qurango.net/radio/qeniwa",
+      "recent_date": "2022-08-17 16:44:08"
+    },
+    {
+      "id": 287,
+      "name": "അബ്ദുൽ റഹ്മാൻ അൽ ഷഹാത്ത്",
+      "url": "https://backup.qurango.net/radio/a_alshahhat",
+      "recent_date": "2022-09-20 17:28:01"
+    },
+    {
+      "id": 307,
+      "name": "വായനക്കാരൻ അബ്ദുള്‍ അസീസ് സുഹൈം",
+      "url": "https://backup.qurango.net/radio/a_sheim",
+      "recent_date": "2023-10-11 04:18:00"
+    },
+    {
+      "id": 10902,
+      "name": "സമാധാനത്തിന്റെ ശ്ലോകങ്ങളുടെ റേഡിയോ",
+      "url": "https://backup.qurango.net/radio/sakeenah",
+      "recent_date": "2020-07-17 14:39:15"
+    },
+    {
+      "id": 10903,
+      "name": "தைகளை சகாப்களும் தாபிஇனும் வாழ்ந்ததற்கான கதைகள், அல்லாஹ் அவர்கள் மீது மகிழ்ச்சி அடையட்டும்",
+      "url": "https://backup.qurango.net/radio/sahabah",
+      "recent_date": "2020-07-17 14:40:45"
+    },
+    {
+      "id": 10904,
+      "name": "കുര്ആൻ ശങ്കലനത്തിന്റെ സംഗ്രഹം",
+      "url": "https://backup.qurango.net/radio/mukhtasartafsir",
+      "recent_date": "2021-03-25 17:28:18"
+    },
+    {
+      "id": 10906,
+      "name": "രാവിലെ സ്മരണകൾ",
+      "url": "https://backup.qurango.net/radio/athkar_sabah",
+      "recent_date": "2021-08-27 12:48:42"
+    },
+    {
+      "id": 10907,
+      "name": "രാത്രി സ്മരണകൾ",
+      "url": "https://backup.qurango.net/radio/athkar_masa",
+      "recent_date": "2021-08-27 12:49:07"
+    },
+    {
+      "id": 21114,
+      "name": "പെഗമ്പർ മുഹമ്മദ് (സല്ലല്ലാഹു അലൈഹി വസല്ലം)യുടെ ജീവിതചരിതം",
+      "url": "https://backup.qurango.net/radio/fi_zilal_alsiyra",
+      "recent_date": "2021-09-27 01:36:41"
+    },
+    {
+      "id": 21115,
+      "name": "നബിയുടെ സംക്ഷിപ്ത ജീവചരിത്രം",
+      "url": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra",
+      "recent_date": "2025-05-30 11:38:35"
+    },
+    {
+      "id": 21116,
+      "name": "ആരാധനയും ഇടപാടുകളും സംബന്ധിച്ച നിയമത്തിന്റെ തിരഞ്ഞെടുപ്പുകൾക്കായുള്ള പുസ്തകം",
+      "url": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+      "recent_date": "2022-02-13 23:48:06"
+    },
+    {
+      "id": 21117,
+      "name": "ഖുര്‍ആൻ വിശദീകരണം - തബറി വിശദീകരണത്തിൽ നിന്ന് സംഗ്രഹം",
+      "url": "https://backup.qurango.net/radio/tabri",
+      "recent_date": "2023-12-02 20:42:00"
+    },
+    {
+      "id": 109038,
+      "name": "സ്വലിഹ് ഹബ്ദാന്",
+      "url": "https://backup.qurango.net/radio/saleh_alhabdan",
+      "recent_date": "2020-06-27 01:47:04"
+    },
+    {
+      "id": 109039,
+      "name": "ഉർദുവിൽ ഖുര്‍ആന്റെ അർത്ഥങ്ങൾക്കുള്ള വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_urdu_basit",
+      "recent_date": "2024-04-13 04:18:10"
+    },
+    {
+      "id": 109040,
+      "name": "സ്പാനിഷ് ഭാഷയില്‍ ഖുര്‍ആന്റെ അര്‍ഥങ്ങള്‍ക്കുള്ള വിവര്‍ത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_spanish_afs",
+      "recent_date": "2024-04-13 04:21:03"
+    },
+    {
+      "id": 109041,
+      "name": "ആൽബേനിയൻ ഭാഷയിൽ ഖുര്‍ആന്റെ അർഥങ്ങൾക്കുള്ള വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_albanian",
+      "recent_date": "2024-04-13 04:22:03"
+    },
+    {
+      "id": 109042,
+      "name": "ജർമ്മൻ ഭാഷയിൽ ഖുര്‍ആന്റെ അർത്ഥങ്ങൾക്കുള്ള വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_german",
+      "recent_date": "2024-04-13 04:23:33"
+    },
+    {
+      "id": 109043,
+      "name": "അമാസിഗ് ഭാഷയില്‍ ഖുര്‍ആന്റെ അര്‍ഥങ്ങള്‍ക്കുള്ള വിവര്‍ത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_tamazight",
+      "recent_date": "2024-04-13 04:25:33"
+    },
+    {
+      "id": 109044,
+      "name": "ഉർദുവിൽ ഖുര്‍ആന്റെ അർത്ഥങ്ങൾക്കുള്ള വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_urdu_sds_shur",
+      "recent_date": "2024-04-13 04:26:22"
+    },
+    {
+      "id": 109045,
+      "name": "ഉർദുവിൽ ഖുര്‍ആന്റെ അർത്ഥങ്ങൾക്കുള്ള വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_urdu_minsh",
+      "recent_date": "2024-04-13 04:27:09"
+    },
+    {
+      "id": 109046,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ ഇംഗ്ലീഷ് ഭാഷയിൽ വിവർത്തനം - വായകൻ അബ്ദുൽബാസിത് അബ്ദുസ്സമദ്",
+      "url": "https://backup.qurango.net/radio/translation_quran_english_basit",
+      "recent_date": "2024-04-13 04:28:32"
+    },
+    {
+      "id": 109047,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ ഇംഗ്ലീഷ് ഭാഷയിൽ വിവർത്തനം - വായകൻ അബ്ദുള്ള ബിസോഫ്",
+      "url": "https://backup.qurango.net/radio/translation_quran_english_bsfr",
+      "recent_date": "2024-04-13 04:29:17"
+    },
+    {
+      "id": 109048,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ ഇംഗ്ലീഷ് ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_english_walk_basit",
+      "recent_date": "2024-04-13 04:30:25"
+    },
+    {
+      "id": 109049,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ പോർച്ചുഗീസ് ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_portuguese",
+      "recent_date": "2024-04-13 04:31:18"
+    },
+    {
+      "id": 109050,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ ബോസ്‌നിയൻ ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_bosnia",
+      "recent_date": "2024-04-13 04:32:27"
+    },
+    {
+      "id": 109051,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ തുര്‍ക്കിഷ് ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_turkish",
+      "recent_date": "2024-04-13 04:33:38"
+    },
+    {
+      "id": 109052,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ റഷ്യൻ ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_Russia",
+      "recent_date": "2024-04-13 04:35:33"
+    },
+    {
+      "id": 109053,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ ചൈനീസ് ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_chinese",
+      "recent_date": "2024-04-13 04:36:48"
+    },
+    {
+      "id": 109054,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ ഫാർസിക്ക് ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_farsi",
+      "recent_date": "2024-04-13 05:07:34"
+    },
+    {
+      "id": 109055,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ ഫ്രഞ്ച് ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_french",
+      "recent_date": "2024-04-13 05:08:08"
+    },
+    {
+      "id": 109056,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ കുർദിഷ് ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_kurdish",
+      "recent_date": "2024-04-13 05:10:28"
+    },
+    {
+      "id": 109057,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ കൊറിയൻ ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_Korean",
+      "recent_date": "2024-04-13 05:10:52"
+    },
+    {
+      "id": 109058,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ ഹംഗേറിയൻ ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_hungarian",
+      "recent_date": "2024-04-13 05:16:54"
+    },
+    {
+      "id": 109059,
+      "name": "കുര്ആന്റെ അർത്ഥത്തിന്റെ ഗ്രീക്ക് ഭാഷയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/translation_quran_greek",
+      "recent_date": "2024-04-13 05:17:34"
+    },
+    {
+      "id": 109060,
+      "name": "മുല്‍ക് സൂറത്",
+      "url": "https://backup.qurango.net/radio/Surah_Al-Mulk",
+      "recent_date": "2024-04-13 05:32:01"
+    },
+    {
+      "id": 109061,
+      "name": "റമദാൻ മാസത്തിന്റെ മഹത്വം",
+      "url": "https://backup.qurango.net/radio/ramadan",
+      "recent_date": "2024-04-13 05:33:01"
+    },
+    {
+      "id": 109062,
+      "name": "ഖുരാനിന്റെ അർത്ഥങ്ങൾ ഹൗസയിൽ വിവർത്തനം",
+      "url": "https://backup.qurango.net/radio/Translation_Quran_Hausa",
+      "recent_date": "2024-09-26 00:18:57"
+    },
+    {
+      "id": 109066,
+      "name": "Sahih Muslim",
+      "url": "https://backup.qurango.net/radio/saheh-muslim",
+      "recent_date": "2025-05-20 18:30:06"
+    },
+    {
+      "id": 109067,
+      "name": "Sahih al-Bukhari",
+      "url": "https://backup.qurango.net/radio/saheh-bokharee",
+      "recent_date": "2025-05-20 18:34:32"
+    },
+    {
+      "id": 109069,
+      "name": "പ്രവാചകന്മാരുടെ കഥകൾ",
+      "url": "https://backup.qurango.net/radio/alanbiya",
+      "recent_date": "2025-07-04 18:34:32"
+    },
+    {
+      "id": 109074,
+      "name": "അബ്ദുല്ലാ അല് ബുഐജാന്",
+      "url": "https://backup.qurango.net/radio/buajan",
+      "recent_date": "2025-07-20 19:47:08"
+    },
+    {
+      "id": 109075,
+      "name": "അഹ്മദ് ത്വാലിബ്‌ ബ്നു ഹുമൈദ്",
+      "url": "https://backup.qurango.net/radio/a_binhameed",
+      "recent_date": "2025-07-20 19:54:30"
+    },
+    {
+      "id": 109077,
+      "name": "ബദ്ർ അത്തുർക്കി",
+      "url": "https://backup.qurango.net/radio/bader",
+      "recent_date": "2025-09-12 19:09:35"
+    },
+    {
+      "id": 109078,
+      "name": "ഹസാഅ് അൽ ബലൂഷി",
+      "url": "https://backup.qurango.net/radio/hazza",
+      "recent_date": "2025-09-12 19:22:27"
+    },
+    {
+      "id": 109082,
+      "name": "സൗദി അറേബ്യയിൽ നിന്നുള്ള വിശുദ്ധ ഖുർആൻ",
+      "url": "https://stream.radiojar.com/0tpy1h0kxtzuv",
+      "recent_date": "2026-02-13 17:41:50"
+    }
+  ]
+}
