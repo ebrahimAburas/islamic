@@ -1,0 +1,104 @@
+[
+    {
+        "name": "mwl",
+        "value": "Muslim World League",
+        "params": {"fajr_angel": "18", "maghrib_angel": "0", "isha_angel": "17", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "51.5194682", "longitude": "-0.1360365"}
+    },
+    {
+        "name": "isna",
+        "value": "Islamic Society of North America (ISNA)",
+        "params": {"fajr_angel": "15", "maghrib_angel": "0", "isha_angel": "15", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "9.70421229999999", "longitude": "-86.39943869999999"}
+    },
+    {
+        "name": "egyptian",
+        "value": "Egyptian General Authority of Survey",
+        "params": {"fajr_angel": "19.5", "maghrib_angel": "0", "isha_angel": "17.5", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "30.0444196", "longitude": "31.2357116"}
+    },
+    {
+        "name": "makkah",
+        "value": "Umm Al-Qura University, Makkah",
+        "params": {"fajr_angel": "18.5", "maghrib_angel": "0", "isha_angel": "0", "maghrib_interval": "0", "isha_interval": "90"},
+        "location": {"latitude": "21.3890824", "longitude": "39.8579118"}
+    },
+    {
+        "name": "karachi",
+        "value": "University of Islamic Sciences, Karachi",
+        "params": {"fajr_angel": "18", "maghrib_angel": "0", "isha_angel": "18", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "24.8614622", "longitude": "67.0099388"}
+    },
+    {
+        "name": "tehran",
+        "value": "Institute of Geophysics, University of Tehran",
+        "params": {"fajr_angel": "17.7", "maghrib_angel": "4.5", "isha_angel": "14", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "35.6891975", "longitude": "51.3889736"}
+    },
+    {
+        "name": "kuwait",
+        "value": "Kuwait",
+        "params": {"fajr_angel": "18", "maghrib_angel": "0", "isha_angel": "17.5", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "29.375859", "longitude": "47.9774052"}
+    },
+    {
+        "name": "qatar",
+        "value": "Qatar",
+        "params": {"fajr_angel": "18", "maghrib_angel": "0", "isha_angel": "0", "maghrib_interval": "0", "isha_interval": "90"},
+        "location": {"latitude": "25.2854473", "longitude": "51.5310398"}
+    },
+    {
+        "name": "singapore",
+        "value": "Majlis Ugama Islam Singapura, Singapore",
+        "params": {"fajr_angel": "20", "maghrib_angel": "0", "isha_angel": "18", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "1.352083", "longitude": "103.819836"}
+    },
+    {
+        "name": "french",
+        "value": "Union Organization Islamic de France",
+        "params": {"fajr_angel": "12", "maghrib_angel": "0", "isha_angel": "12", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "48.856614", "longitude": "2.3522219"}
+    },
+    {
+        "name": "turkey",
+        "value": "Diyanet \u0130\u015fleri Ba\u015fkanl\u0131\u011f\u0131, Turkey (experimental)",
+        "params": {"fajr_angel": "18", "maghrib_angel": "0", "isha_angel": "17", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "39.9333635", "longitude": "32.8597419"}
+    },
+    {
+        "name": "russian",
+        "value": "Spiritual Administration of Muslims of Russia",
+        "params": {"fajr_angel": "16", "maghrib_angel": "0", "isha_angel": "15", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "54.73479099999999", "longitude": "55.9578555"}
+    },
+    {
+        "name": "dubai",
+        "value": "Dubai (experimental)",
+        "params": {"fajr_angel": "18.2", "maghrib_angel": "0", "isha_angel": "18.2", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "25.0762677", "longitude": "55.087404"}
+    },
+    {
+        "name": "jakim",
+        "value": "Jabatan Kemajuan Islam Malaysia (JAKIM)",
+        "params": {"fajr_angel": "20", "maghrib_angel": "0", "isha_angel": "18", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "3.139003", "longitude": "101.686855"}
+    },
+    {
+        "name": "tunisian",
+        "value": "Tunisian",
+        "params": {"fajr_angel": "18", "maghrib_angel": "0", "isha_angel": "18", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "36.8064948", "longitude": "10.1815316"}
+    },
+    {
+        "name": "algerian",
+        "value": "Algerian",
+        "params": {"fajr_angel": "18", "maghrib_angel": "0", "isha_angel": "17", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "36.753768", "longitude": "3.0587561"}
+    },
+    {
+        "name": "kemenag",
+        "value": "Kementerian Agama Republik Indonesia",
+        "params": {"fajr_angel": "20", "maghrib_angel": "0", "isha_angel": "18", "maghrib_interval": "0", "isha_interval": "0"},
+        "location": {"latitude": "-6.2087634", "longitude": "106.845599"}
+    }
+]
