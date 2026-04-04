@@ -7,3 +7,5 @@ The library contains multiple files for:
   - All supported countries for prayer locations
   - All calculation methods for prayer
   - Tafsir Quran in Arabic for Jalalayn, Ibn Katheer, Qurtubi and Muyassar
+  - All popular angels' names with their roles
+  - The five Islam basics
