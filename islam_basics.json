@@ -1,0 +1,137 @@
+[
+    {
+        "name": {"arabic": "الشهادتان", "english": "Shahada (Declaration of Faith)"},
+        "description": {
+            "arabic": "الإيمان بأن لا إله إلا الله وأن محمدًا رسول الله",
+            "english": "Belief that there is no god but Allah and that Muhammad is the Messenger of Allah"
+        },
+        "quran": {
+            "text": {
+                "arabic": "﴿فَاعْلَمْ أَنَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ﴾",
+                "english": "\"Know, [O Muhammad], that there is no deity except Allah\""
+            },
+            "reference": {
+                "arabic": "سورة محمد: 19",
+                "english": "Quran 47:19"
+            }
+        },
+        "hadith": {
+            "text": {
+                "arabic": "قال رسول الله ﷺ: «بني الإسلام على خمس...»",
+                "english": "The Prophet ﷺ said: \"Islam is built upon five...\""
+            },
+            "reference": {
+                "arabic": "صحيح البخاري، صحيح مسلم",
+                "english": "Sahih al-Bukhari, Sahih Muslim"
+            }
+        }
+    },
+    {
+        "name": {"arabic": "الصلاة", "english": "Salah (Prayer)"},
+        "description": {
+            "arabic": "أداء الصلوات الخمس اليومية المفروضة",
+            "english": "Performing the five daily obligatory prayers"
+        },
+        "quran": {
+            "text": {
+                "arabic": "﴿وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ﴾",
+                "english": "\"Establish prayer and give zakah\""
+            },
+            "reference": {
+                "arabic": "سورة البقرة: 43",
+                "english": "Quran 2:43"
+            }
+        },
+        "hadith": {
+            "text": {
+                "arabic": "قال رسول الله ﷺ: «رأس الأمر الإسلام وعموده الصلاة»",
+                "english": "The Prophet ﷺ said: \"The pillar of the religion is prayer\""
+            },
+            "reference": {
+                "arabic": "سنن الترمذي",
+                "english": "Jami' at-Tirmidhi"
+            }
+        } 
+    },
+    {
+        "name": {"arabic": "الزكاة", "english": "Zakat (Charity)"},
+        "description": {
+            "arabic": "إخراج جزء من المال للفقراء والمحتاجين",
+            "english": "Giving a portion of wealth to those in need"
+        },
+        "quran": {
+            "text": {
+                "arabic": "﴿وَآتُوا الزَّكَاةَ﴾",
+                "english": "\"And give zakah\""
+            },
+            "reference": {
+                "arabic": "سورة البقرة: 110",
+                "english": "Quran 2:110"
+            }
+        },
+        "hadith": {
+            "text": {
+                "arabic": "قال رسول الله ﷺ: «أُمروا أن يشهدوا... ويؤتوا الزكاة»",
+                "english": "They were commanded to testify... and give zakah"
+            },
+            "reference": {
+                "arabic": "صحيح البخاري",
+                "english": "Sahih al-Bukhari"
+            }
+        }
+    },
+    {
+        "name": {"arabic": "الصوم", "english": "Sawm (Fasting)"},
+        "description": {
+            "arabic": "صيام شهر رمضان من الفجر حتى المغرب",
+            "english": "Fasting during the month of Ramadan from dawn to sunset"
+        },
+        "quran": {
+            "text": {
+                "arabic": "﴿كُتِبَ عَلَيْكُمُ الصِّيَامُ﴾",
+                "english": "\"Fasting has been prescribed for you\""
+            },
+            "reference": {
+                "arabic": "سورة البقرة: 183",
+                "english": "Quran 2:183"
+            }
+        },
+        "hadith": {
+            "text": {
+                "arabic": "قال رسول الله ﷺ: «من صام رمضان إيمانًا واحتسابًا غُفر له ما تقدم من ذنبه»",
+                "english": "Whoever fasts Ramadan with faith and seeking reward will have his past sins forgiven"
+            },
+            "reference": {
+                "arabic": "صحيح البخاري، صحيح مسلم",
+                "english": "Sahih al-Bukhari, Sahih Muslim"
+            }
+        }
+    },
+    {
+        "name": {"arabic": "الحج", "english": "Hajj (Pilgrimage)"},
+        "description": {
+            "arabic": "حج بيت الله الحرام لمن استطاع إليه سبيلاً",
+            "english": "Pilgrimage to the Sacred House (Kaaba) for those who are able"
+        },
+        "quran": {
+            "text": {
+                "arabic": "﴿وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ﴾",
+                "english": "\"And [due] to Allah from the people is a pilgrimage to the House\""
+            },
+            "reference": {
+                "arabic": "سورة آل عمران: 97",
+                "english": "Quran 3:97"
+            }
+        },
+        "hadith": {
+            "text": {
+                "arabic": "قال رسول الله ﷺ: «من حج فلم يرفث ولم يفسق رجع كيوم ولدته أمه»",
+                "english": "Whoever performs Hajj properly returns free of sins like the day he was born"
+            },
+            "reference": {
+                "arabic": "صحيح البخاري، صحيح مسلم",
+                "english": "Sahih al-Bukhari, Sahih Muslim"
+            }
+        }
+    }
+]

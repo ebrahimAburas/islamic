@@ -1,0 +1,50 @@
+[
+    {
+        "name": {"arabic": "جبريل", "english": "Jibreel (Gabriel)"},
+        "role": {"arabic": "إنزال الوحي على الأنبياء", "english": "Delivers revelation to the prophets"}
+    },
+    {
+        "name": {"arabic": "ميكائيل", "english": "Mikaeel (Michael)"},
+        "role": {"arabic": "مسؤول عن المطر والرزق", "english": "Responsible for rain and provision"}
+    },
+    {
+        "name": {"arabic": "إسرافيل", "english": "Israfeel"},
+        "role": {"arabic": "النفخ في الصور يوم القيامة", "english": "Blows the trumpet on the Day of Judgment"}
+    },
+    {
+        "name": {"arabic": "ملك الموت (عزرائيل)", "english": "Angel of Death (Azrael)"},
+        "role": {"arabic": "قبض الأرواح", "english": "Takes souls at death"}
+    },
+    {
+        "name": {"arabic": "مالك", "english": "Malik"},
+        "role": {"arabic": "خازن جهنم", "english": "Keeper of Hell"}
+    },
+    {
+        "name": {"arabic": "رضوان", "english": "Ridwan"},
+        "role": {"arabic": "خازن الجنة", "english": "Keeper of Paradise"}
+    },
+    {
+        "name": {"arabic": "منكر", "english": "Munkar"},
+        "role": {"arabic": "سؤال الميت في القبر", "english": "Questions the dead in the grave"}
+    },
+    {
+        "name": {"arabic": "نكير", "english": "Nakir"},
+        "role": {"arabic": "سؤال الميت في القبر", "english": "Questions the dead in the grave"}
+    },
+    {
+        "name": {"arabic": "الكرام الكاتبين", "english": "Kiraman Katibin"},
+        "role": {"arabic": "تسجيل أعمال العباد", "english": "Record people's deeds"}
+    },
+    {
+        "name": {"arabic": "حملة العرش", "english": "Bearers of the Throne"},
+        "role": {"arabic": "يحملون عرش الرحمن", "english": "Carry the Throne of Allah"}
+    },
+    {
+        "name": {"arabic": "الزبانية", "english": "Zabaniyah"},
+        "role": {"arabic": "ملائكة العذاب في جهنم", "english": "Angels of punishment in Hell"}
+    },
+    {
+        "name": {"arabic": "السفرة", "english": "Safarah"},
+        "role": {"arabic": "ملائكة يكتبون وينقلون الصحف", "english": "Angels who transcribe and deliver records"}
+    }
+]
